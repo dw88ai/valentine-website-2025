@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://audio.com/mexiricansongs/audio/bad-bunny-dtmf", // Music streaming URL
+        musicUrl: "https://ccoooc.thetacloud.org/api/v1/download?sig=VhgYkYQRG%2BdsrOJOtzQitXfXdC9HHzSL0WS6G4LxVaYamUD61takaYoTjXPxZBa4YGBaprvPz4w0QiWzCAYMpAiV2xq11MIpFJUWKjEvQ%2Fx0KKaNoHbORr1m56UcA9sH%2Bvu6aElMmG1VjcgDjHEBXU38V%2FKh5KTx2ILACBmBeadDu%2B2B2bDNDAmBdTUE7e9ppbrbfKL2f3jPo%2FYwVxpzI6ykmIL7NZDZhlSXIvGKTTWEcoQNfAxrPsi2%2F9Zdh3wD5CL77LVTJGiM%2Ff9MdIQssW%2FURXsmgMZi8ex0SFvnQZxzPoV9RnROv4jTyywGq98sw%2BVIOmjZf%2FTzU1oHplUWnA%3D%3D&s=4&v=4X4uckVyk9o&f=mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
